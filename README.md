@@ -16,4 +16,5 @@
 ### Результат
 
 Получены и проанализированы модели, демонстрирующие эффективность различных стратегий обучения и регуляризации для задачи прогнозирования показателя *mpg*.
-![Image alt](https://github.com/mhtabkrklt/ML-2/commit/9dc21641f497622473e3573bf310ee8f2aaccb56)
+
+![Screenshot](https://github.com/mhtabkrklt/ML-2/commit/9dc21641f497622473e3573bf310ee8f2aaccb56)
